@@ -1,0 +1,108 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://leisure.tstar.jp/coupon/notfound/",
+            "path": "index.html",
+            "saved": true,
+            "size": 1226,
+            "children": [
+                {
+                    "url": "https://tstar.s3.amazonaws.com/coupon/static/RL/pc/images/logo.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://leisure.tstar.jp/coupon/static/common/js/jquery-1.11.3.min.js",
+                    "path": "js/jquery-1.11.3.min.js",
+                    "saved": true,
+                    "size": 95957,
+                    "children": []
+                },
+                {
+                    "url": "https://leisure.tstar.jp/coupon/static/common/js/coupon.js",
+                    "path": "js/coupon.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://leisure.tstar.jp/coupon/static/common/js/disable_return_page.js",
+                    "path": "js/disable_return_page.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tstar.s3.amazonaws.com/coupon/static/RL/pc/css/style2.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://tstar.s3.amazonaws.com/coupon/static/common/css/coupon.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://tstar.s3.amazonaws.com/coupon/static/RL/pc/images/favicon.ico",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "leisure-tstar-jp-9eqb1h7k",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://leisure.tstar.jp/coupon/notfound/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://leisure.tstar.jp/coupon/notfound/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 18 Feb 2022 13:40:36 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "server": "nginx",
+                "set-cookie": [
+                    "browserid=6c913b9854b6d600ac52218d807d38c3!dE8Wd9xICI9i9ChBsvMy4KIh+Qs=; Path=/; Domain=tstar.jp;"
+                ],
+                "x-content-type-options": "nosniff",
+                "x-frame-options": "SAMEORIGIN"
+            }
+        },
+        "time": {
+            "start": "2022-02-18T13:40:36.283Z",
+            "end": "2022-02-18T13:40:36.665Z"
+        },
+        "remark": [],
+        "title": "レジャーチケット 購入確認ページ",
+        "ip": "54.249.38.15",
+        "url": "https://leisure.tstar.jp/coupon/notfound/",
+        "main": "index.html",
+        "domain": "leisure.tstar.jp",
+        "origin": "https://leisure.tstar.jp",
+        "totalSize": "97.2 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://leisure.tstar.jp/coupon/notfound/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
