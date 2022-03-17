@@ -8,10 +8,10 @@
     ],
     "resources": [
         {
-            "url": "https://leisure.tstar.jp/coupon/notfound/",
+            "url": "https://leisure.tstar.jp/coupon/9508373515",
             "path": "index.html",
             "saved": true,
-            "size": 1226,
+            "size": 4313,
             "children": [
                 {
                     "url": "https://tstar.s3.amazonaws.com/coupon/static/RL/pc/images/logo.png",
@@ -53,7 +53,7 @@
             ]
         }
     ],
-    "alias": "leisure-tstar-jp-9eqb1h7k",
+    "alias": "leisure-tstar-jp-tczt2skb",
     "info": {
         "request": {
             "headers": {
@@ -62,44 +62,44 @@
                 "accept-encoding": "gzip",
                 "cache-control": "no-cache",
                 "cookie": "",
-                "referer": "https://leisure.tstar.jp/coupon/notfound/",
+                "referer": "https://leisure.tstar.jp/coupon/9508373515",
                 "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
                 "x-scraper-website": "https://bazhan.me/"
             }
         },
         "response": {
             "redirects": [],
-            "responseUrl": "https://leisure.tstar.jp/coupon/notfound/",
+            "responseUrl": "https://leisure.tstar.jp/coupon/9508373515",
             "statusCode": 200,
             "headers": {
-                "date": "Fri, 18 Feb 2022 13:40:36 GMT",
+                "date": "Wed, 29 Dec 2021 08:22:28 GMT",
                 "content-type": "text/html; charset=UTF-8",
                 "transfer-encoding": "chunked",
                 "connection": "close",
                 "server": "nginx",
                 "set-cookie": [
-                    "browserid=6c913b9854b6d600ac52218d807d38c3!dE8Wd9xICI9i9ChBsvMy4KIh+Qs=; Path=/; Domain=tstar.jp;"
+                    "browserid=5c40dcb6476f02b239873e1430f295a4!DxssMes1LbsX/1pMLf7y8+Z9kd0=; Path=/; Domain=tstar.jp;"
                 ],
                 "x-content-type-options": "nosniff",
                 "x-frame-options": "SAMEORIGIN"
             }
         },
         "time": {
-            "start": "2022-02-18T13:40:36.283Z",
-            "end": "2022-02-18T13:40:36.665Z"
+            "start": "2021-12-29T08:22:24.518Z",
+            "end": "2021-12-29T08:22:35.245Z"
         },
         "remark": [],
         "title": "レジャーチケット 購入確認ページ",
-        "ip": "54.249.38.15",
-        "url": "https://leisure.tstar.jp/coupon/notfound/",
+        "ip": "52.197.173.109",
+        "url": "https://leisure.tstar.jp/coupon/9508373515",
         "main": "index.html",
         "domain": "leisure.tstar.jp",
         "origin": "https://leisure.tstar.jp",
-        "totalSize": "97.2 kB"
+        "totalSize": "100 kB"
     },
     "options": {
         "formatter": [],
-        "url": "https://leisure.tstar.jp/coupon/notfound/",
+        "url": "https://leisure.tstar.jp/coupon/9508373515",
         "referer": "",
         "cookies": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
